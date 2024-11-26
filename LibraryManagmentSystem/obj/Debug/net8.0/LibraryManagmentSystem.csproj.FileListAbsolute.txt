@@ -1,0 +1,14 @@
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.exe
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.deps.json
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.runtimeconfig.json
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.dll
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.pdb
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.AssemblyInfoInputs.cache
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.AssemblyInfo.cs
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.dll
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\refint\LibraryManagmentSystem.dll
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.pdb
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.genruntimeconfig.cache
+D:\EraaSoft Course .NET\lec-4\ThirdTask\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\ref\LibraryManagmentSystem.dll
