@@ -39,7 +39,21 @@ namespace LibraryManagmentSystem
             }
 
         }
-
+        public void search(string title, string author = "")
+        {
+            bool flag = false;
+            for (int i = 0; i < books.Count; i++)
+            {
+                if (title == books[i].GetTitle() || author == books[i].GetAuthor())
+                {
+                    flag = true;
+                }
+            }
+            if (flag) {
+                Console.WriteLine("book found in the library");
+            }else
+                Console.WriteLine("not found");
+        }
         public void BorrowBook(string title,string author="")
         {
             bool flag = false;
